@@ -1,5 +1,5 @@
 {
-  "name": "cocorico-n8n",
+  "name": "n8n",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,6 +11,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "n8n": "^0.177.0"
+    "n8n": "^0.179.0"
   }
 }
